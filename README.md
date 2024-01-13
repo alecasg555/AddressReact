@@ -1,4 +1,4 @@
-# Inventory App
+#  Weather Address App
 The Weather Address App is a application built with React that allows you to get the weather pronostics for specific address.
   
 
