@@ -1,6 +1,7 @@
 #  Weather Address App
 The Weather Address App is a application built with React that allows you to get the weather pronostics for specific address.
-  
+![image](https://github.com/alecasg555/AddressReact/assets/81333589/7fd07bf1-91c6-418d-a668-44d4af037bff)
+
 
   
 # Docker
